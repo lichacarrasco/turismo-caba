@@ -1,0 +1,289 @@
+year,mes_nom,categoria,viajeros
+2016,Abril,1 y 2*,39697
+2016,Abril,3*,35782
+2016,Abril,4*,62525
+2016,Abril,5*,18981
+2016,Abril,Apart,19634
+2016,Abril,Hostel,3860
+2016,Abril,Hotel Bou,8671
+2016,Abril,Para Hoteles,31664
+2016,Agosto,1 y 2*,41457
+2016,Agosto,3*,40779
+2016,Agosto,4*,72167
+2016,Agosto,5*,20093
+2016,Agosto,Apart,22107
+2016,Agosto,Hostel,4205
+2016,Agosto,Hotel Bou,10194
+2016,Agosto,Para Hoteles,27164
+2016,Diciembre,1 y 2*,35427
+2016,Diciembre,3*,34187
+2016,Diciembre,4*,59173
+2016,Diciembre,5*,20063
+2016,Diciembre,Apart,17926
+2016,Diciembre,Hostel,3517
+2016,Diciembre,Hotel Bou,8540
+2016,Diciembre,Para Hoteles,27288
+2016,Enero,1 y 2*,30798
+2016,Enero,3*,29128
+2016,Enero,4*,44762
+2016,Enero,5*,15871
+2016,Enero,Apart,16874
+2016,Enero,Hostel,3470
+2016,Enero,Hotel Bou,6901
+2016,Enero,Para Hoteles,30663
+2016,Febrero,1 y 2*,27515
+2016,Febrero,3*,30055
+2016,Febrero,4*,50302
+2016,Febrero,5*,21241
+2016,Febrero,Apart,16712
+2016,Febrero,Hostel,4078
+2016,Febrero,Hotel Bou,8179
+2016,Febrero,Para Hoteles,29401
+2016,Julio,1 y 2*,41754
+2016,Julio,3*,49656
+2016,Julio,4*,83959
+2016,Julio,5*,23404
+2016,Julio,Apart,25578
+2016,Julio,Hostel,5403
+2016,Julio,Hotel Bou,12723
+2016,Julio,Para Hoteles,30969
+2016,Junio,1 y 2*,35193
+2016,Junio,3*,34714
+2016,Junio,4*,68092
+2016,Junio,5*,17337
+2016,Junio,Apart,20942
+2016,Junio,Hostel,4070
+2016,Junio,Hotel Bou,9964
+2016,Junio,Para Hoteles,26933
+2016,Marzo,1 y 2*,39081
+2016,Marzo,3*,38674
+2016,Marzo,4*,63333
+2016,Marzo,5*,19355
+2016,Marzo,Apart,20208
+2016,Marzo,Hostel,4421
+2016,Marzo,Hotel Bou,8727
+2016,Marzo,Para Hoteles,32447
+2016,Mayo,1 y 2*,41207
+2016,Mayo,3*,34947
+2016,Mayo,4*,67105
+2016,Mayo,5*,16194
+2016,Mayo,Apart,19315
+2016,Mayo,Hostel,4010
+2016,Mayo,Hotel Bou,9654
+2016,Mayo,Para Hoteles,31463
+2016,Noviembre,1 y 2*,42343
+2016,Noviembre,3*,44152
+2016,Noviembre,4*,75491
+2016,Noviembre,5*,23900
+2016,Noviembre,Apart,23514
+2016,Noviembre,Hostel,4225
+2016,Noviembre,Hotel Bou,11855
+2016,Noviembre,Para Hoteles,29993
+2016,Octubre,1 y 2*,48636
+2016,Octubre,3*,43593
+2016,Octubre,4*,75054
+2016,Octubre,5*,22410
+2016,Octubre,Apart,22166
+2016,Octubre,Hostel,4260
+2016,Octubre,Hotel Bou,11582
+2016,Octubre,Para Hoteles,31009
+2016,Septiembre,1 y 2*,40871
+2016,Septiembre,3*,41283
+2016,Septiembre,4*,74003
+2016,Septiembre,5*,19268
+2016,Septiembre,Apart,21056
+2016,Septiembre,Hostel,4815
+2016,Septiembre,Hotel Bou,9930
+2016,Septiembre,Para Hoteles,29145
+2017,Abril,1 y 2*,42551
+2017,Abril,3*,41089
+2017,Abril,4*,70729
+2017,Abril,5*,19504
+2017,Abril,Apart,20568
+2017,Abril,Hostel,4657
+2017,Abril,Hotel Bou,9775
+2017,Abril,Para Hoteles,30905
+2017,Agosto,1 y 2*,43503
+2017,Agosto,3*,43409
+2017,Agosto,4*,74220
+2017,Agosto,5*,19964
+2017,Agosto,Apart,19997
+2017,Agosto,Hostel,4625
+2017,Agosto,Hotel Bou,11257
+2017,Agosto,Para Hoteles,32235
+2017,Diciembre,1 y 2*,39393
+2017,Diciembre,3*,35455
+2017,Diciembre,4*,59662
+2017,Diciembre,5*,19892
+2017,Diciembre,Apart,15749
+2017,Diciembre,Hostel,4451
+2017,Diciembre,Hotel Bou,8080
+2017,Diciembre,Para Hoteles,28779
+2017,Enero,1 y 2*,32423
+2017,Enero,3*,30579
+2017,Enero,4*,56255
+2017,Enero,5*,14713
+2017,Enero,Apart,17161
+2017,Enero,Hostel,2993
+2017,Enero,Hotel Bou,7479
+2017,Enero,Para Hoteles,26059
+2017,Febrero,1 y 2*,34191
+2017,Febrero,3*,31277
+2017,Febrero,4*,55123
+2017,Febrero,5*,16308
+2017,Febrero,Apart,17035
+2017,Febrero,Hostel,2983
+2017,Febrero,Hotel Bou,8793
+2017,Febrero,Para Hoteles,25130
+2017,Julio,1 y 2*,48621
+2017,Julio,3*,50556
+2017,Julio,4*,83886
+2017,Julio,5*,23389
+2017,Julio,Apart,25497
+2017,Julio,Hostel,5639
+2017,Julio,Hotel Bou,12880
+2017,Julio,Para Hoteles,30512
+2017,Junio,1 y 2*,43555
+2017,Junio,3*,42982
+2017,Junio,4*,67648
+2017,Junio,5*,16376
+2017,Junio,Apart,21103
+2017,Junio,Hostel,4116
+2017,Junio,Hotel Bou,10218
+2017,Junio,Para Hoteles,29260
+2017,Marzo,1 y 2*,43300
+2017,Marzo,3*,38074
+2017,Marzo,4*,73022
+2017,Marzo,5*,19814
+2017,Marzo,Apart,20926
+2017,Marzo,Hostel,3906
+2017,Marzo,Hotel Bou,10126
+2017,Marzo,Para Hoteles,28368
+2017,Mayo,1 y 2*,46482
+2017,Mayo,3*,42914
+2017,Mayo,4*,72787
+2017,Mayo,5*,18613
+2017,Mayo,Apart,21326
+2017,Mayo,Hostel,3932
+2017,Mayo,Hotel Bou,10900
+2017,Mayo,Para Hoteles,28541
+2017,Noviembre,1 y 2*,47597
+2017,Noviembre,3*,44803
+2017,Noviembre,4*,78680
+2017,Noviembre,5*,22378
+2017,Noviembre,Apart,21258
+2017,Noviembre,Hostel,5489
+2017,Noviembre,Hotel Bou,10067
+2017,Noviembre,Para Hoteles,30702
+2017,Octubre,1 y 2*,44559
+2017,Octubre,3*,44118
+2017,Octubre,4*,74646
+2017,Octubre,5*,22070
+2017,Octubre,Apart,19744
+2017,Octubre,Hostel,5651
+2017,Octubre,Hotel Bou,9995
+2017,Octubre,Para Hoteles,31937
+2017,Septiembre,1 y 2*,45819
+2017,Septiembre,3*,45176
+2017,Septiembre,4*,74010
+2017,Septiembre,5*,21992
+2017,Septiembre,Apart,19197
+2017,Septiembre,Hostel,5036
+2017,Septiembre,Hotel Bou,11084
+2017,Septiembre,Para Hoteles,30385
+2018,Abril,1 y 2*,41696
+2018,Abril,3*,37485
+2018,Abril,4*,66503
+2018,Abril,5*,18723
+2018,Abril,Apart,16628
+2018,Abril,Hostel,4630
+2018,Abril,Hotel Bou,9083
+2018,Abril,Para Hoteles,36145
+2018,Agosto,1 y 2*,45234
+2018,Agosto,3*,38003
+2018,Agosto,4*,62323
+2018,Agosto,5*,15534
+2018,Agosto,Apart,15617
+2018,Agosto,Hostel,3501
+2018,Agosto,Hotel Bou,7990
+2018,Agosto,Para Hoteles,34604
+2018,Diciembre,1 y 2*,36920
+2018,Diciembre,3*,28583
+2018,Diciembre,4*,51554
+2018,Diciembre,5*,12749
+2018,Diciembre,Apart,11485
+2018,Diciembre,Hostel,1789
+2018,Diciembre,Hotel Bou,5347
+2018,Diciembre,Para Hoteles,32988
+2018,Enero,1 y 2*,33808
+2018,Enero,3*,30988
+2018,Enero,4*,52223
+2018,Enero,5*,14366
+2018,Enero,Apart,13593
+2018,Enero,Hostel,2405
+2018,Enero,Hotel Bou,6526
+2018,Enero,Para Hoteles,25611
+2018,Febrero,1 y 2*,35787
+2018,Febrero,3*,31553
+2018,Febrero,4*,52206
+2018,Febrero,5*,16604
+2018,Febrero,Apart,14194
+2018,Febrero,Hostel,2702
+2018,Febrero,Hotel Bou,7960
+2018,Febrero,Para Hoteles,26533
+2018,Julio,1 y 2*,49072
+2018,Julio,3*,41233
+2018,Julio,4*,70562
+2018,Julio,5*,19830
+2018,Julio,Apart,17282
+2018,Julio,Hostel,2992
+2018,Julio,Hotel Bou,9050
+2018,Julio,Para Hoteles,36490
+2018,Junio,1 y 2*,39769
+2018,Junio,3*,34401
+2018,Junio,4*,55118
+2018,Junio,5*,13256
+2018,Junio,Apart,13949
+2018,Junio,Hostel,3092
+2018,Junio,Hotel Bou,7509
+2018,Junio,Para Hoteles,31247
+2018,Marzo,1 y 2*,45710
+2018,Marzo,3*,40884
+2018,Marzo,4*,64916
+2018,Marzo,5*,19056
+2018,Marzo,Apart,18545
+2018,Marzo,Hostel,5279
+2018,Marzo,Hotel Bou,9816
+2018,Marzo,Para Hoteles,32534
+2018,Mayo,1 y 2*,43169
+2018,Mayo,3*,38405
+2018,Mayo,4*,64770
+2018,Mayo,5*,19243
+2018,Mayo,Apart,16495
+2018,Mayo,Hostel,3571
+2018,Mayo,Hotel Bou,8596
+2018,Mayo,Para Hoteles,34434
+2018,Noviembre,1 y 2*,45012
+2018,Noviembre,3*,34035
+2018,Noviembre,4*,62685
+2018,Noviembre,5*,13857
+2018,Noviembre,Apart,14133
+2018,Noviembre,Hostel,2402
+2018,Noviembre,Hotel Bou,6598
+2018,Noviembre,Para Hoteles,37019
+2018,Octubre,1 y 2*,46013
+2018,Octubre,3*,36523
+2018,Octubre,4*,66411
+2018,Octubre,5*,13763
+2018,Octubre,Apart,15572
+2018,Octubre,Hostel,2696
+2018,Octubre,Hotel Bou,8023
+2018,Octubre,Para Hoteles,37207
+2018,Septiembre,1 y 2*,45122
+2018,Septiembre,3*,36497
+2018,Septiembre,4*,59507
+2018,Septiembre,5*,12771
+2018,Septiembre,Apart,14949
+2018,Septiembre,Hostel,3167
+2018,Septiembre,Hotel Bou,6363
+2018,Septiembre,Para Hoteles,37948
