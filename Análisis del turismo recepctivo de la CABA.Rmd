@@ -2,9 +2,7 @@
 title: "Análisis del turismo receptivo en la CABA"
 author: "Lisandro Carrasco"
 date: "10/4/2022"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
